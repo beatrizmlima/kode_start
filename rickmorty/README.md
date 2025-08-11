@@ -31,13 +31,14 @@ Aplicativo desenvolvido em Flutter para o desafio técnico da edição 2025 do K
 
 1. **Listagem de personagens**  
    - Exibe personagens da API Rick and Morty em cards com imagens e nomes.
-   - Scroll na lista de personagens.    
+   - Scroll na lista de personagens.
+     
    ![GIF listagem](imgrd/listagem.gif)
 
 2. **Tela de detalhes do personagem**  
    - Navegabilidade da tela de listagem até a tela de detalhes do personagem.
    - Exibe informações detalhadas: nome, status, espécie, gênero, localização, etc.  
-   **Demonstração:**  
+   
    ![GIF detalhes](imgrd/detalhes.gif)
 
 3. **Utilização da versão REST da API**
@@ -49,18 +50,19 @@ Aplicativo desenvolvido em Flutter para o desafio técnico da edição 2025 do K
 4. **Pesquisa de personagens**  
    - Campo de busca integrado com o `SearchProvider`.
    - Filtragem instantânea conforme o usuário digita.
+     
    ![GIF busca](imgrd/busca.gif)
 
 5. **Favoritar personagens**  
    - Marcar/desmarcar personagens como favoritos.
    - Tela exclusiva para favoritos.
    - Conexão entre as telas (o que é marcado/desmarcado em uma é exibido na outra)  
-   **Demonstração:**  
+  
    ![GIF favoritos](imgrd/favoritos.gif)
 
 6. **Tema Claro/Escuro**  
    - Alternância de tema persistida no app.  
-   **Demonstração:**  
+   
    ![GIF tema](imgrd/tema.gif)
 
 ---
